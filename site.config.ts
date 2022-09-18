@@ -2,7 +2,7 @@ import { siteConfig } from './lib/site-config'
 
 export default siteConfig({
   // the site's root Notion page (required)
-  rootNotionPageId: '3ed6053553a04e0698a981797052d7cb',
+  rootNotionPageId: '5fac8878e95c49d9b9d7493167de1ea1',
 
   // It's will be used as the root page when running `yarn dev`. (optional)
   // If you are suffering from the slow loading or compiling speed, set this to a smaller page.
@@ -14,16 +14,16 @@ export default siteConfig({
   rootNotionSpaceId: null,
 
   // basic site info (required)
-  name: 'FKYnJYQ',
-  domain: 'nexon-demo.vercel.app',
-  author: 'Feng Kaiyu',
+  name: 'jare.me',
+  domain: 'www.jare.me',
+  author: 'jp',
 
   // open graph metadata (optional)
-  description: 'Code for Good.',
+  description: 'digital journal',
 
   // social usernames (optional)
-  twitter: 'FKYnJYQ',
-  github: 'fky2015',
+  twitter: '',
+  github: '',
   linkedin: '',
   // newsletter: '#', // optional newsletter URL
   // youtube: '#', // optional youtube channel name or `channel/UCGbXXXXXXXXXXXXXXXXXXXXXX`
